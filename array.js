@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var superHeros = [];
+superHeros.push("spiderman");
+var heroRank = [];
+heroRank.push(3);
+var allUsers = [];
+allUsers.push({ name: "string", isActive: false });
+var coordinates = [[23.54, 47.00], [123.76, 98.89], [75.43, 77.78]];
+console.log(coordinates);
