@@ -1,1 +1,1 @@
-OK
+Core Typescript for beginners
