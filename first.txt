@@ -1,1 +1,1 @@
-Core Typescript for beginners
+Core TS concepts
